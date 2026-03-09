@@ -1,5 +1,4 @@
-# Image Display using Python and OpenCV
-
+# day1_image_display_opencv.py
 This project demonstrates how to read, display, and save an image using Python and OpenCV.
 
 ## Tools Used
